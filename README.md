@@ -1,0 +1,1 @@
+# inventary_app_etmx
